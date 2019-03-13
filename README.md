@@ -19,8 +19,7 @@ System demands:
 
 3. In MATLAB, run start.m and choose different Simulink model according to your neccessary.
 
-Note: The GUI is to control the Bebop to takeoff and land, only once each time. The GUI is suitable for four vehicles, you can modify the ardrone_control.fig and ardrone_control.m files to add more vehicles and more functions.
+Note: The GUI is to control the Bebop to takeoff and land, only once each time. The GUI is suitable for four vehicles, you can modify the ardrone_control.fig and ardrone_control.m files to add more vehicles and more functions.![image](https://raw.githubusercontent.com/DengMark/Bebop_test/master/GUI.png)  
 
-        ![image](https://raw.githubusercontent.com/DengMark/Bebop_test/master/GUI.png)  
       
       
